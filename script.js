@@ -38,8 +38,8 @@ calcReset.addEventListener("click", function () {
   });
   calcInputBill.value = "";
   calcInputPeople.value = "";
-  totalTipPer.textContent = "";
-  totalPer.textContent = "";
+  totalTipPer.textContent = "$0.00";
+  totalPer.textContent = "$0.00";
   calcGridInput.value = "";
   resetActive = false;
 });
