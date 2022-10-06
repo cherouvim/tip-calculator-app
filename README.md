@@ -54,4 +54,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - https://www.frontendmentor.io/profile/paul-dontyourusername)
+- Frontend Mentor - https://www.frontendmentor.io/profile/paul-dont
